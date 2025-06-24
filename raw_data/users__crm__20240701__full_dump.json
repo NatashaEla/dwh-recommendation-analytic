@@ -1,0 +1,17 @@
+[
+  {
+    "user_id": "usr_cb94310f",
+    "gender": "female",
+    "age_group": "25-34",
+    "registration_date": "2022-09-15",
+    "platform_preference": "mobile",
+    "city": "Санкт-Петербург",
+    "loyalty_tier": "silver",
+    "subscription_status": "free",
+    "marketing_consent": true,
+    "has_abandoned_cart": false,
+    "utm_source": "organic",
+    "utm_campaign": null,
+    "last_activity": "2024-07-01T08:34:19Z"
+  }
+]
