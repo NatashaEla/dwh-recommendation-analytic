@@ -1,0 +1,20 @@
+[
+  {
+    "click_id": "clk_97f239da",
+    "rec_id": "rec_2ea4a3ba",
+    "user_id": "usr_cb94310f",
+    "product_id": "pr_001ac9",
+    "timestamp": "2024-07-01T08:14:11Z",
+    "position": 1,
+    "source_page": "home",
+    "entry_point": "recommendation_block",
+    "platform": "android",
+    "referrer": "main_banner",
+    "tracking_id": "trk_78c1d49b",
+    "click_metadata": {
+      "interaction_type": "tap",
+      "network_type": "wifi",
+      "latency_ms": 315
+    }
+  }
+]
