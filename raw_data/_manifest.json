@@ -1,0 +1,20 @@
+{
+  "rec_logs": [
+    "rec_logs__reco_engine__20240701__batchA01.json"
+  ],
+  "rec_clicks": [
+    "rec_clicks__webapp__20240701__clickstream01.json"
+  ],
+  "orders": [
+    "orders__checkout__20240701__nightdump_v1.json"
+  ],
+  "products": [
+    "products__catalog__20240701__v01.json"
+  ],
+  "users": [
+    "users__crm__20240701__full_dump.json"
+  ],
+  "ab_groups": [
+    "ab_groups__experiments__20240701__init.json"
+  ]
+}
