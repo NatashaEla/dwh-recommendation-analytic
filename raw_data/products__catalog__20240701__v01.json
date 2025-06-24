@@ -1,0 +1,21 @@
+[
+  {
+    "product_id": "pr_001ac9",
+    "title": "Наушники JBL Tune 510BT",
+    "brand": "JBL",
+    "category": "electronics",
+    "subcategory": "audio_headphones",
+    "price": 1790,
+    "old_price": 2490,
+    "currency": "RUB",
+    "rating": 4.7,
+    "reviews_count": 412,
+    "available": true,
+    "stock_qty": 142,
+    "is_promo": true,
+    "warranty_months": 12,
+    "created_at": "2023-11-02T10:00:00Z",
+    "country_of_origin": "China",
+    "vendor_code": "JBL510BT-BLK"
+  }
+]
