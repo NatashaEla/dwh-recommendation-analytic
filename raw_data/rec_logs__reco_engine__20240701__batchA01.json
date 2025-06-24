@@ -1,0 +1,38 @@
+[
+  {
+    "rec_id": "rec_2ea4a3ba",
+    "user_id": "usr_cb94310f",
+    "rec_type": "personal",
+    "placement": "home_page",
+    "block_id": "block_promo_13",
+    "products": [
+      {
+        "product_id": "pr_001ac9",
+        "position": 1,
+        "score": 0.812,
+        "image_url": "https://cdn.app.com/images/pr_001ac9.jpg",
+        "is_available": true,
+        "tags": ["new", "highlight"]
+      },
+      {
+        "product_id": "pr_0043b7",
+        "position": 2,
+        "score": 0.795,
+        "image_url": "https://cdn.app.com/images/pr_0043b7.jpg",
+        "is_available": false,
+        "tags": []
+      }
+    ],
+    "device_info": {
+      "platform": "android",
+      "os_version": "13.1",
+      "app_version": "5.12.0"
+    },
+    "experiment_tags": ["algo_v2", "layout_test_A"],
+    "request_id": "req_59aa88f0",
+    "tracking_id": "trk_78c1d49b",
+    "locale": "ru-RU",
+    "debug_mode": false,
+    "timestamp": "2024-07-01T08:13:41Z"
+  }
+]
