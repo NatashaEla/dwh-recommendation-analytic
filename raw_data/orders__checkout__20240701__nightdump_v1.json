@@ -1,0 +1,31 @@
+[
+  {
+    "order_id": "ord_d8e45b39",
+    "user_id": "usr_cb94310f",
+    "timestamp": "2024-07-01T08:26:35Z",
+    "total_amount": 3790,
+    "payment_method": "sbp",
+    "delivery_method": "self_pickup",
+    "promo_applied": true,
+    "delivery_city": "Санкт-Петербург",
+    "platform": "web",
+    "products": [
+      {
+        "product_id": "pr_001ac9",
+        "quantity": 1,
+        "unit_price": 1790,
+        "rec_id": "rec_2ea4a3ba",
+        "rec_type": "personal",
+        "price_final": 1590
+      },
+      {
+        "product_id": "pr_005de0",
+        "quantity": 1,
+        "unit_price": 2200,
+        "price_final": 2200
+      }
+    ],
+    "fulfillment_center": "fc_ekaterinburg_05",
+    "tracking_id": "trk_143ad2aa"
+  }
+]
