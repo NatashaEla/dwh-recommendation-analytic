@@ -1,0 +1,11 @@
+[
+  {
+    "user_id": "usr_cb94310f",
+    "experiment_id": "exp_2024_06_rec_strategy",
+    "group": "B",
+    "assigned_at": "2024-06-30T10:01:00Z",
+    "experiment_tags": ["rec_personal_v2", "promo_placement_A"],
+    "allocation_method": "bucket_hashing",
+    "cohort": "2024_Q3_A"
+  }
+]
