@@ -7,7 +7,7 @@ CREAT TABLE IF NOT EXISTS stg.stg_clicks_web (
 	, rec_id TEXT NOT NULL
 	, user_id TEXT NOT NULL
 	, product_id TEXT
-	, timestamp TIMESTAMPTZ
+	, event_time TIMESTAMPTZ
 	, position INTEGER
 	, source_page TEXT
 	, entry_point TEXT
