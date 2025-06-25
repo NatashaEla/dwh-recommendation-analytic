@@ -20,6 +20,6 @@ CREATE TABLE IF NOT EXISTS stg.stg_rec_logs (
 	, tracking_id TEXT
 	, locale TEXT
 	, debug_mode BOOLEAN
-	, timestamp TIMESTAMPTZ NOT NULL
+	, event_time TIMESTAMPTZ NOT NULL
 	, raw_json TEXT
 );
